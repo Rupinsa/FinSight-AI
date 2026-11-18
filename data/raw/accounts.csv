@@ -1,0 +1,17 @@
+account_id,account_name,account_type
+1000,Cash,Asset
+1100,Accounts Receivable,Asset
+1200,Inventory,Asset
+1500,Equipment,Asset
+2000,Accounts Payable,Liability
+2100,Bank Loan,Liability
+3000,Share Capital,Equity
+3100,Retained Earnings,Equity
+4000,Product Revenue,Revenue
+4100,Service Revenue,Revenue
+5000,Cost of Goods Sold,Expense
+5100,Salary Expense,Expense
+5200,Marketing Expense,Expense
+5300,Rent Expense,Expense
+5400,Utilities Expense,Expense
+5500,Depreciation Expense,Expense

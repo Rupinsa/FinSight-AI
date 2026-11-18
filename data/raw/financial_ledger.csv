@@ -1,0 +1,251 @@
+journal_id,transaction_date,account_id,debit,credit,department_id,description
+1,2025-01-01,1000,170000.0,0.0,4,Opening cash capital
+1,2025-01-01,3000,0.0,170000.0,4,Opening cash capital
+2,2025-01-01,1200,40000.0,0.0,4,Opening inventory capital
+2,2025-01-01,3000,0.0,40000.0,4,Opening inventory capital
+3,2025-01-01,1000,80000.0,0.0,4,Opening bank loan
+3,2025-01-01,2100,0.0,80000.0,4,Opening bank loan
+4,2025-01-15,1000,67170.77,0.0,1,Product sales - cash
+4,2025-01-15,4000,0.0,67170.77,1,Product sales - cash
+5,2025-01-15,1100,28787.47,0.0,1,Service sales - receivable
+5,2025-01-15,4100,0.0,28787.47,1,Service sales - receivable
+6,2025-01-15,1200,48825.26,0.0,3,Inventory purchases on credit
+6,2025-01-15,2000,0.0,48825.26,3,Inventory purchases on credit
+7,2025-01-15,5000,39060.21,0.0,3,Cost of goods sold
+7,2025-01-15,1200,0.0,39060.21,3,Cost of goods sold
+8,2025-01-15,5100,21868.78,0.0,3,Payroll
+8,2025-01-15,1000,0.0,21868.78,3,Payroll
+9,2025-01-15,5200,9881.58,0.0,2,Marketing campaign
+9,2025-01-15,1000,0.0,9881.58,2,Marketing campaign
+10,2025-01-15,5300,6000.0,0.0,3,Office rent
+10,2025-01-15,1000,0.0,6000.0,3,Office rent
+11,2025-01-15,5400,1141.27,0.0,3,Utilities
+11,2025-01-15,1000,0.0,1141.27,3,Utilities
+12,2025-01-15,1000,14393.74,0.0,1,Receivable collection
+12,2025-01-15,1100,0.0,14393.74,1,Receivable collection
+13,2025-01-15,2000,5859.03,0.0,3,Supplier payment
+13,2025-01-15,1000,0.0,5859.03,3,Supplier payment
+14,2025-01-15,1500,12000.0,0.0,4,Equipment purchase
+14,2025-01-15,1000,0.0,12000.0,4,Equipment purchase
+15,2025-02-15,1000,72817.43,0.0,1,Product sales - cash
+15,2025-02-15,4000,0.0,72817.43,1,Product sales - cash
+16,2025-02-15,1100,31207.47,0.0,1,Service sales - receivable
+16,2025-02-15,4100,0.0,31207.47,1,Service sales - receivable
+17,2025-02-15,1200,58377.23,0.0,3,Inventory purchases on credit
+17,2025-02-15,2000,0.0,58377.23,3,Inventory purchases on credit
+18,2025-02-15,5000,46701.78,0.0,3,Cost of goods sold
+18,2025-02-15,1200,0.0,46701.78,3,Cost of goods sold
+19,2025-02-15,5100,21288.51,0.0,3,Payroll
+19,2025-02-15,1000,0.0,21288.51,3,Payroll
+20,2025-02-15,5200,5896.8,0.0,2,Marketing campaign
+20,2025-02-15,1000,0.0,5896.8,2,Marketing campaign
+21,2025-02-15,5300,6000.0,0.0,3,Office rent
+21,2025-02-15,1000,0.0,6000.0,3,Office rent
+22,2025-02-15,5400,1675.58,0.0,3,Utilities
+22,2025-02-15,1000,0.0,1675.58,3,Utilities
+23,2025-02-15,1000,15603.73,0.0,1,Receivable collection
+23,2025-02-15,1100,0.0,15603.73,1,Receivable collection
+24,2025-02-15,2000,7005.27,0.0,3,Supplier payment
+24,2025-02-15,1000,0.0,7005.27,3,Supplier payment
+25,2025-03-15,1000,55882.34,0.0,1,Product sales - cash
+25,2025-03-15,4000,0.0,55882.34,1,Product sales - cash
+26,2025-03-15,1100,23949.58,0.0,1,Service sales - receivable
+26,2025-03-15,4100,0.0,23949.58,1,Service sales - receivable
+27,2025-03-15,1200,46949.1,0.0,3,Inventory purchases on credit
+27,2025-03-15,2000,0.0,46949.1,3,Inventory purchases on credit
+28,2025-03-15,5000,37559.28,0.0,3,Cost of goods sold
+28,2025-03-15,1200,0.0,37559.28,3,Cost of goods sold
+29,2025-03-15,5100,20150.92,0.0,3,Payroll
+29,2025-03-15,1000,0.0,20150.92,3,Payroll
+30,2025-03-15,5200,10759.33,0.0,2,Marketing campaign
+30,2025-03-15,1000,0.0,10759.33,2,Marketing campaign
+31,2025-03-15,5300,6000.0,0.0,3,Office rent
+31,2025-03-15,1000,0.0,6000.0,3,Office rent
+32,2025-03-15,5400,1665.12,0.0,3,Utilities
+32,2025-03-15,1000,0.0,1665.12,3,Utilities
+33,2025-03-15,1000,11974.79,0.0,1,Receivable collection
+33,2025-03-15,1100,0.0,11974.79,1,Receivable collection
+34,2025-03-15,2000,5633.89,0.0,3,Supplier payment
+34,2025-03-15,1000,0.0,5633.89,3,Supplier payment
+35,2025-04-15,1000,51862.68,0.0,1,Product sales - cash
+35,2025-04-15,4000,0.0,51862.68,1,Product sales - cash
+36,2025-04-15,1100,22226.86,0.0,1,Service sales - receivable
+36,2025-04-15,4100,0.0,22226.86,1,Service sales - receivable
+37,2025-04-15,1200,39091.13,0.0,3,Inventory purchases on credit
+37,2025-04-15,2000,0.0,39091.13,3,Inventory purchases on credit
+38,2025-04-15,5000,31272.9,0.0,3,Cost of goods sold
+38,2025-04-15,1200,0.0,31272.9,3,Cost of goods sold
+39,2025-04-15,5100,15510.54,0.0,3,Payroll
+39,2025-04-15,1000,0.0,15510.54,3,Payroll
+40,2025-04-15,5200,10793.42,0.0,2,Marketing campaign
+40,2025-04-15,1000,0.0,10793.42,2,Marketing campaign
+41,2025-04-15,5300,6000.0,0.0,3,Office rent
+41,2025-04-15,1000,0.0,6000.0,3,Office rent
+42,2025-04-15,5400,1947.5,0.0,3,Utilities
+42,2025-04-15,1000,0.0,1947.5,3,Utilities
+43,2025-04-15,1000,11113.43,0.0,1,Receivable collection
+43,2025-04-15,1100,0.0,11113.43,1,Receivable collection
+44,2025-04-15,2000,4690.94,0.0,3,Supplier payment
+44,2025-04-15,1000,0.0,4690.94,3,Supplier payment
+45,2025-05-15,1000,66726.46,0.0,1,Product sales - cash
+45,2025-05-15,4000,0.0,66726.46,1,Product sales - cash
+46,2025-05-15,1100,28597.05,0.0,1,Service sales - receivable
+46,2025-05-15,4100,0.0,28597.05,1,Service sales - receivable
+47,2025-05-15,1200,47195.67,0.0,3,Inventory purchases on credit
+47,2025-05-15,2000,0.0,47195.67,3,Inventory purchases on credit
+48,2025-05-15,5000,37756.53,0.0,3,Cost of goods sold
+48,2025-05-15,1200,0.0,37756.53,3,Cost of goods sold
+49,2025-05-15,5100,22765.58,0.0,3,Payroll
+49,2025-05-15,1000,0.0,22765.58,3,Payroll
+50,2025-05-15,5200,11251.85,0.0,2,Marketing campaign
+50,2025-05-15,1000,0.0,11251.85,2,Marketing campaign
+51,2025-05-15,5300,6000.0,0.0,3,Office rent
+51,2025-05-15,1000,0.0,6000.0,3,Office rent
+52,2025-05-15,5400,2167.58,0.0,3,Utilities
+52,2025-05-15,1000,0.0,2167.58,3,Utilities
+53,2025-05-15,1000,14298.53,0.0,1,Receivable collection
+53,2025-05-15,1100,0.0,14298.53,1,Receivable collection
+54,2025-05-15,2000,5663.48,0.0,3,Supplier payment
+54,2025-05-15,1000,0.0,5663.48,3,Supplier payment
+55,2025-06-15,1000,50949.88,0.0,1,Product sales - cash
+55,2025-06-15,4000,0.0,50949.88,1,Product sales - cash
+56,2025-06-15,1100,21835.66,0.0,1,Service sales - receivable
+56,2025-06-15,4100,0.0,21835.66,1,Service sales - receivable
+57,2025-06-15,1200,37363.89,0.0,3,Inventory purchases on credit
+57,2025-06-15,2000,0.0,37363.89,3,Inventory purchases on credit
+58,2025-06-15,5000,29891.11,0.0,3,Cost of goods sold
+58,2025-06-15,1200,0.0,29891.11,3,Cost of goods sold
+59,2025-06-15,5100,15350.43,0.0,3,Payroll
+59,2025-06-15,1000,0.0,15350.43,3,Payroll
+60,2025-06-15,5200,6080.03,0.0,2,Marketing campaign
+60,2025-06-15,1000,0.0,6080.03,2,Marketing campaign
+61,2025-06-15,5300,6000.0,0.0,3,Office rent
+61,2025-06-15,1000,0.0,6000.0,3,Office rent
+62,2025-06-15,5400,2024.57,0.0,3,Utilities
+62,2025-06-15,1000,0.0,2024.57,3,Utilities
+63,2025-06-15,1000,10917.83,0.0,1,Receivable collection
+63,2025-06-15,1100,0.0,10917.83,1,Receivable collection
+64,2025-06-15,2000,4483.67,0.0,3,Supplier payment
+64,2025-06-15,1000,0.0,4483.67,3,Supplier payment
+65,2025-07-15,1000,66353.34,0.0,1,Product sales - cash
+65,2025-07-15,4000,0.0,66353.34,1,Product sales - cash
+66,2025-07-15,1100,28437.15,0.0,1,Service sales - receivable
+66,2025-07-15,4100,0.0,28437.15,1,Service sales - receivable
+67,2025-07-15,1200,56373.83,0.0,3,Inventory purchases on credit
+67,2025-07-15,2000,0.0,56373.83,3,Inventory purchases on credit
+68,2025-07-15,5000,45099.06,0.0,3,Cost of goods sold
+68,2025-07-15,1200,0.0,45099.06,3,Cost of goods sold
+69,2025-07-15,5100,17606.6,0.0,3,Payroll
+69,2025-07-15,1000,0.0,17606.6,3,Payroll
+70,2025-07-15,5200,7593.22,0.0,2,Marketing campaign
+70,2025-07-15,1000,0.0,7593.22,2,Marketing campaign
+71,2025-07-15,5300,6000.0,0.0,3,Office rent
+71,2025-07-15,1000,0.0,6000.0,3,Office rent
+72,2025-07-15,5400,1704.33,0.0,3,Utilities
+72,2025-07-15,1000,0.0,1704.33,3,Utilities
+73,2025-07-15,1000,14218.57,0.0,1,Receivable collection
+73,2025-07-15,1100,0.0,14218.57,1,Receivable collection
+74,2025-07-15,2000,6764.86,0.0,3,Supplier payment
+74,2025-07-15,1000,0.0,6764.86,3,Supplier payment
+75,2025-07-15,1500,12000.0,0.0,4,Equipment purchase
+75,2025-07-15,1000,0.0,12000.0,4,Equipment purchase
+76,2025-08-15,1000,50805.2,0.0,1,Product sales - cash
+76,2025-08-15,4000,0.0,50805.2,1,Product sales - cash
+77,2025-08-15,1100,21773.66,0.0,1,Service sales - receivable
+77,2025-08-15,4100,0.0,21773.66,1,Service sales - receivable
+78,2025-08-15,1200,33285.55,0.0,3,Inventory purchases on credit
+78,2025-08-15,2000,0.0,33285.55,3,Inventory purchases on credit
+79,2025-08-15,5000,26628.44,0.0,3,Cost of goods sold
+79,2025-08-15,1200,0.0,26628.44,3,Cost of goods sold
+80,2025-08-15,5100,18805.64,0.0,3,Payroll
+80,2025-08-15,1000,0.0,18805.64,3,Payroll
+81,2025-08-15,5200,6588.37,0.0,2,Marketing campaign
+81,2025-08-15,1000,0.0,6588.37,2,Marketing campaign
+82,2025-08-15,5300,6000.0,0.0,3,Office rent
+82,2025-08-15,1000,0.0,6000.0,3,Office rent
+83,2025-08-15,5400,2004.72,0.0,3,Utilities
+83,2025-08-15,1000,0.0,2004.72,3,Utilities
+84,2025-08-15,1000,10886.83,0.0,1,Receivable collection
+84,2025-08-15,1100,0.0,10886.83,1,Receivable collection
+85,2025-08-15,2000,3994.27,0.0,3,Supplier payment
+85,2025-08-15,1000,0.0,3994.27,3,Supplier payment
+86,2025-09-15,1000,57740.25,0.0,1,Product sales - cash
+86,2025-09-15,4000,0.0,57740.25,1,Product sales - cash
+87,2025-09-15,1100,24745.82,0.0,1,Service sales - receivable
+87,2025-09-15,4100,0.0,24745.82,1,Service sales - receivable
+88,2025-09-15,1200,47248.87,0.0,3,Inventory purchases on credit
+88,2025-09-15,2000,0.0,47248.87,3,Inventory purchases on credit
+89,2025-09-15,5000,37799.09,0.0,3,Cost of goods sold
+89,2025-09-15,1200,0.0,37799.09,3,Cost of goods sold
+90,2025-09-15,5100,20602.12,0.0,3,Payroll
+90,2025-09-15,1000,0.0,20602.12,3,Payroll
+91,2025-09-15,5200,7186.57,0.0,2,Marketing campaign
+91,2025-09-15,1000,0.0,7186.57,2,Marketing campaign
+92,2025-09-15,5300,6000.0,0.0,3,Office rent
+92,2025-09-15,1000,0.0,6000.0,3,Office rent
+93,2025-09-15,5400,2248.39,0.0,3,Utilities
+93,2025-09-15,1000,0.0,2248.39,3,Utilities
+94,2025-09-15,1000,12372.91,0.0,1,Receivable collection
+94,2025-09-15,1100,0.0,12372.91,1,Receivable collection
+95,2025-09-15,2000,5669.86,0.0,3,Supplier payment
+95,2025-09-15,1000,0.0,5669.86,3,Supplier payment
+96,2025-10-15,1000,68033.4,0.0,1,Product sales - cash
+96,2025-10-15,4000,0.0,68033.4,1,Product sales - cash
+97,2025-10-15,1100,29157.17,0.0,1,Service sales - receivable
+97,2025-10-15,4100,0.0,29157.17,1,Service sales - receivable
+98,2025-10-15,1200,48640.5,0.0,3,Inventory purchases on credit
+98,2025-10-15,2000,0.0,48640.5,3,Inventory purchases on credit
+99,2025-10-15,5000,38912.4,0.0,3,Cost of goods sold
+99,2025-10-15,1200,0.0,38912.4,3,Cost of goods sold
+100,2025-10-15,5100,17306.62,0.0,3,Payroll
+100,2025-10-15,1000,0.0,17306.62,3,Payroll
+101,2025-10-15,5200,9777.47,0.0,2,Marketing campaign
+101,2025-10-15,1000,0.0,9777.47,2,Marketing campaign
+102,2025-10-15,5300,6000.0,0.0,3,Office rent
+102,2025-10-15,1000,0.0,6000.0,3,Office rent
+103,2025-10-15,5400,1209.63,0.0,3,Utilities
+103,2025-10-15,1000,0.0,1209.63,3,Utilities
+104,2025-10-15,1000,14578.59,0.0,1,Receivable collection
+104,2025-10-15,1100,0.0,14578.59,1,Receivable collection
+105,2025-10-15,2000,5836.86,0.0,3,Supplier payment
+105,2025-10-15,1000,0.0,5836.86,3,Supplier payment
+106,2025-11-15,1000,51097.43,0.0,1,Product sales - cash
+106,2025-11-15,4000,0.0,51097.43,1,Product sales - cash
+107,2025-11-15,1100,21898.9,0.0,1,Service sales - receivable
+107,2025-11-15,4100,0.0,21898.9,1,Service sales - receivable
+108,2025-11-15,1200,32023.22,0.0,3,Inventory purchases on credit
+108,2025-11-15,2000,0.0,32023.22,3,Inventory purchases on credit
+109,2025-11-15,5000,25618.58,0.0,3,Cost of goods sold
+109,2025-11-15,1200,0.0,25618.58,3,Cost of goods sold
+110,2025-11-15,5100,21295.4,0.0,3,Payroll
+110,2025-11-15,1000,0.0,21295.4,3,Payroll
+111,2025-11-15,5200,9653.96,0.0,2,Marketing campaign
+111,2025-11-15,1000,0.0,9653.96,2,Marketing campaign
+112,2025-11-15,5300,6000.0,0.0,3,Office rent
+112,2025-11-15,1000,0.0,6000.0,3,Office rent
+113,2025-11-15,5400,2057.75,0.0,3,Utilities
+113,2025-11-15,1000,0.0,2057.75,3,Utilities
+114,2025-11-15,1000,10949.45,0.0,1,Receivable collection
+114,2025-11-15,1100,0.0,10949.45,1,Receivable collection
+115,2025-11-15,2000,3842.79,0.0,3,Supplier payment
+115,2025-11-15,1000,0.0,3842.79,3,Supplier payment
+116,2025-12-15,1000,67360.41,0.0,1,Product sales - cash
+116,2025-12-15,4000,0.0,67360.41,1,Product sales - cash
+117,2025-12-15,1100,28868.75,0.0,1,Service sales - receivable
+117,2025-12-15,4100,0.0,28868.75,1,Service sales - receivable
+118,2025-12-15,1200,49276.43,0.0,3,Inventory purchases on credit
+118,2025-12-15,2000,0.0,49276.43,3,Inventory purchases on credit
+119,2025-12-15,5000,39421.15,0.0,3,Cost of goods sold
+119,2025-12-15,1200,0.0,39421.15,3,Cost of goods sold
+120,2025-12-15,5100,19549.93,0.0,3,Payroll
+120,2025-12-15,1000,0.0,19549.93,3,Payroll
+121,2025-12-15,5200,5978.58,0.0,2,Marketing campaign
+121,2025-12-15,1000,0.0,5978.58,2,Marketing campaign
+122,2025-12-15,5300,6000.0,0.0,3,Office rent
+122,2025-12-15,1000,0.0,6000.0,3,Office rent
+123,2025-12-15,5400,1171.8,0.0,3,Utilities
+123,2025-12-15,1000,0.0,1171.8,3,Utilities
+124,2025-12-15,1000,14434.37,0.0,1,Receivable collection
+124,2025-12-15,1100,0.0,14434.37,1,Receivable collection
+125,2025-12-15,2000,5913.17,0.0,3,Supplier payment
+125,2025-12-15,1000,0.0,5913.17,3,Supplier payment

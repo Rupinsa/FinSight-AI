@@ -1,0 +1,26 @@
+// Qlik Sense load script template.
+// Export these CSVs from data/raw or connect Qlik to the relevant data source.
+SET ThousandSep=',';
+SET DecimalSep='.';
+SET MoneyFormat='₹#,##0.00;-₹#,##0.00';
+
+Accounts:
+LOAD account_id, account_name, account_type
+FROM [lib://FinSightData/accounts.csv] (txt, utf8, embedded labels, delimiter is ',', msq);
+
+Departments:
+LOAD department_id, department_name
+FROM [lib://FinSightData/departments.csv] (txt, utf8, embedded labels, delimiter is ',', msq);
+
+Ledger:
+LOAD journal_id, Date(Date#(transaction_date,'YYYY-MM-DD')) as transaction_date,
+     account_id, debit, credit, department_id, description
+FROM [lib://FinSightData/financial_ledger.csv] (txt, utf8, embedded labels, delimiter is ',', msq);
+
+Budget:
+LOAD month, department_id, budget_amount
+FROM [lib://FinSightData/budget.csv] (txt, utf8, embedded labels, delimiter is ',', msq);
+
+Loans:
+LOAD loan_id, loan_amnt, annual_inc, dti, int_rate, emp_length, default
+FROM [lib://FinSightData/loans_synthetic.csv] (txt, utf8, embedded labels, delimiter is ',', msq);
