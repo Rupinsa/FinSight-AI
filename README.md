@@ -38,6 +38,22 @@ python run.py train
 python run.py report
 ```
 
+
+## Live Application
+
+**FinSight AI Dashboard:**  
+https://finsight-ai-9.streamlit.app/
+
+The application is deployed using Streamlit Community Cloud.
+
+Explore the five modules:
+- Command Center
+- Financial Statements
+- Budget Intelligence
+- Credit Risk Lab
+- Board Reports
+
+
 ## Launch dashboard
 ```bash
 streamlit run app.py
